@@ -18,10 +18,46 @@ An embedded 24-bit measurement processor and firmware perform all necessary comp
 
 The B202AA-PCIe is designed to interface to the host processor via the UART interface.
 
+* Module connected MCU via UART and measure parameters.
+* Module gives alarm output which is configured via library.
+* Module gives output of VR,VS and VT Sense (optical isolated).
+* Full mini PCIe size.
+
 ## Tech Files
 
 [B202AA-PCIe Schematics](/Electronic/Output/Schematic%20Prints/Schematic%20Prints.PDF)
 
+## PinOut
+
+| Top Side            | Pin ID | Pin ID | Bottom Side          |
+|--------------------:|:------:|:------:|:---------------------|
+| -                   | 01     | 02     | -                    |
+| -                   | 03     | 04     | -                    |
+| -                   | 05     | 06     | -                    |
+| 3V3                 | 07     | 08     | 3V3                  |
+| -                   | 09     | 10     | -                    |
+| -                   | 11     | 12     | -                    |
+| -                   | 13     | 14     | -                    |
+| GND                 | 15     | 16     | GND                  |
+| -                   | Key    | Key    | -                    |
+| GND                 | 17     | 18     | GND                  |
+| -                   | 19     | 20     | Module UART RX       |
+| -                   | 21     | 22     | Module UART TX       |
+| GND                 | 23     | 24     | GND                  |
+| -                   | 25     | 26     | IC Reset             |
+| -                   | 27     | 28     | AL1                  |
+| -                   | 29     | 30     | AL5                  |
+| -                   | 31     | 32     | AL4                  |
+| -                   | 33     | 34     | AL2                  |
+| -                   | 35     | 36     | VR Sense             |
+| -                   | 37     | 38     | VS Sense             |
+| -                   | 39     | 40     | VT Sense             |
+| GND                 | 41     | 42     | GND                  |
+| -                   | 43     | 44     | -                    |
+| GND                 | 45     | 46     | GND                  |
+| -                   | 47     | 48     | -                    |
+| -                   | 49     | 50     | -                    |
+| GND                 | 51     | 52     | GND                  |
 
 ## Measured Parameters
 

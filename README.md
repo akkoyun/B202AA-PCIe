@@ -18,6 +18,7 @@ An embedded 24-bit measurement processor and firmware perform all necessary comp
 
 The B202AA-PCIe is designed to interface to the host processor via the UART interface.
 
+* Full open hardware.
 * Module connected MCU via UART and measure parameters.
 * Module gives alarm output which is configured via library.
 * Module gives output of VR,VS and VT Sense (optical isolated).

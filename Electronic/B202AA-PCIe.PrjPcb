@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for B202AA-PCIe
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -301,6 +301,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document16]
+DocumentPath=Output_Job.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=4AB86ECE-4FEA-4771-8B97-43AAF5110A17
 Description=PCB Mount
@@ -323,167 +340,499 @@ DocumentPath=Output\Gerber Files\B202AA-PCIe.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.G1
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.G2
+DocumentPath=Output\Gerber Files\B202AA-PCIe.G1
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GBL
+DocumentPath=Output\Gerber Files\B202AA-PCIe.G2
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GBO
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GBP
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GBS
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GD1
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GD2
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GD3
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GD2
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GG1
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GD3
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GG2
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GG3
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GG2
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GKO
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GG3
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GM2
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GM3
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GM4
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GM5
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GM6
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GM7
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GM6
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GM10
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GM13
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GM10
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GM15
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GPB
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GPT
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GTL
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GTO
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GTP
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.GTS
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Output\Above Image\B202AA-PCIe.jpg
+DocumentPath=Output\Gerber Files\B202AA-PCIe.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Output\Below Image\B202AA-PCIe.jpg
+DocumentPath=Output\Above Image\B202AA-PCIe.jpg
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Output\NC Drill Files\B202AA-PCIe.LDP
+DocumentPath=Output\Below Image\B202AA-PCIe.jpg
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.REP
+DocumentPath=Output\PCB 3D Print Bottom\B202AA-PCIe.jpg
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Output\Gerber Files\B202AA-PCIe.RUL
+DocumentPath=Output\PCB 3D Print Top\B202AA-PCIe.jpg
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Output\Export STEP\B202AA-PCIe.step
+DocumentPath=Output\NC Drill Files\B202AA-PCIe.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Output\NC Drill Files\B202AA-PCIe.TX3
+DocumentPath=Output\Gerber Files\B202AA-PCIe.REP
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Output\NC Drill Files\B202AA-PCIe.TX4
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe.REP
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Output\NC Drill Files\B202AA-PCIe.TXT
+DocumentPath=Output\Gerber Files\B202AA-PCIe.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Output\Export PARASOLID\B202AA-PCIe.x_t
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Output\Bill of Materials\Bill of Materials-B202AA-PCIe.csv
+DocumentPath=Output\Export STEP\B202AA-PCIe.step
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Output\BOM Checks Report\BOM Checks Report-B202AA-PCIe.html
+DocumentPath=Output\NC Drill Files\B202AA-PCIe.TX3
 DItemRevisionGUID=
 
 [GeneratedDocument43]
+DocumentPath=Output\NC Drill Files\B202AA-PCIe.TX4
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Output\NC Drill Files\B202AA-PCIe.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Output\Export PARASOLID\B202AA-PCIe.x_t
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Output\Report Board Stack\B202AA-PCIe.xls
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Output\ODB++ Files\B202AA-PCIe.zip
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Board_Shape.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Bottom_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Bottom_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Bottom_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Drawing_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Drawing_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Drillmap_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Drillmap_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Top_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Top_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_Top_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_uVias_Drill_1_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Output\Gerber X2 Files\B202AA-PCIe_uVias_Drill_3_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Output\Bill of Materials\Bill of Materials-B202AA-PCIe.csv
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Output\Bill of Materials\Bill of Materials-B202AA-PCIe.txt
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Output\BOM Checks Report\BOM Checks Report-B202AA-PCIe.html
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\components
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for B202AA-PCIe\Design Rule Check - B202AA-PCIe.html
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\board_shape\features
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\bottom_3d_body\features
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\bottom_assembly\features
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\bottom_copper_plating\features
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\bottom_courtyard\features
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\comp_+_bot\features
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\dielectric_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\dielectric_5\features
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\drill_drawing_mid2-bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\drill_drawing_top-bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\drill_drawing_top-mid1\features
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\drill_guide_mid2-bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\drill_guide_top-bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\drill_guide_top-mid1\features
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\drill_micro_vias_mid2-bottom\features
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\drill_micro_vias_top-mid1\features
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\drill_plated_bottom-top\features
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\int1\features
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\int2\features
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\top_3d_body\features
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\top_assembly\features
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\top_copper_plating\features
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\top_courtyard\features
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument117]
+DocumentPath=Output\ODB++ Files\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument118]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument119]
 DocumentPath=Output\Generates pick and place files\Pick Place for B202AA-PCIe.txt
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath=..\..\..\AppData\Local\Temp\2\ProA208.xls
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=..\..\..\AppData\Local\Temp\2\ProE9CA.xls
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument124]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\drill_micro_vias_mid2-bottom\tools
+DItemRevisionGUID=
+
+[GeneratedDocument125]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\drill_micro_vias_top-mid1\tools
+DItemRevisionGUID=
+
+[GeneratedDocument126]
+DocumentPath=Output\ODB++ Files\odb\steps\pcb\layers\drill_plated_bottom-top\tools
 DItemRevisionGUID=
 
 [Parameter1]
@@ -553,7 +902,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for B202AA-PCIe
 
 [OutputGroup1]
 Name=Netlist Outputs

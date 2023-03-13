@@ -1,10 +1,10 @@
-Output: Copy of PCB 3D Print
-Type  : PCB 3D Print
+Output: Export PARASOLID
+Type  : ExportSTEP
 From  : Variant [[No Variations]] of PCB Document [B202AA-PCIe.PcbDoc]
-   Generated File[B202AA-PCIe.jpg]
+   Generated File[B202AA-PCIe.x_t]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 15:32:43 On 5.10.2022
+Finished Output Generation At 13:56:21 On 13.03.2023

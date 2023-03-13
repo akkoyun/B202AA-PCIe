@@ -1,0 +1,12 @@
+DRC Rules Export File for PCB: C:\Users\akkoyun\Desktop\B202AA-PCIe\B202AA-PCIe.PcbDoc
+RuleKind=Clearance|RuleName=GND-GNDISO|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=HV Clearence|Scope=Board|Minimum=3.94
+RuleKind=MinimumAnnularRing|RuleName=Minimum-IAR|Scope=Board|Minimum=4.92
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR  > 0.45mm|Scope=Board|Minimum=4.92
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR  <= 0.45mm|Scope=Board|Minimum=4.92
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.39
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_Via|Scope=Board|Minimum=0.39
+RuleKind=Width|RuleName=Width-xTW|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=NOTR-GNDISO|Scope=Board|Minimum=11.81

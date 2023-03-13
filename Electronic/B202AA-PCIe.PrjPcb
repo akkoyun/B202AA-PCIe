@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for B202AA-PCIe
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -301,23 +301,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
-DocumentPath=Output\Output Job.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [ProjectVariant1]
 UniqueID=4AB86ECE-4FEA-4771-8B97-43AAF5110A17
 Description=PCB Mount
@@ -332,186 +315,174 @@ Name=Product_ID_
 Value=B202AA-PCIe (PCB Version)
 
 [GeneratedDocument1]
-DocumentPath=B202AA-PCIe 13.03.2023 11-58-26.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Output\NC Drill Files\B202AA-PCIe.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.G1
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.G2
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GD2
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GD3
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GG2
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GG3
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GM3
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GM5
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument20]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GM6
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument21]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GM7
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument22]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GM10
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument23]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument24]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument25]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument26]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument27]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument28]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument29]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument30]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument31]
 DocumentPath=Output\Above Image\B202AA-PCIe.jpg
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument32]
 DocumentPath=Output\Below Image\B202AA-PCIe.jpg
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument33]
 DocumentPath=Output\NC Drill Files\B202AA-PCIe.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument34]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.REP
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument35]
 DocumentPath=Output\Gerber Files\B202AA-PCIe.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument36]
 DocumentPath=Output\Export STEP\B202AA-PCIe.step
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument37]
 DocumentPath=Output\NC Drill Files\B202AA-PCIe.TX3
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument38]
 DocumentPath=Output\NC Drill Files\B202AA-PCIe.TX4
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument39]
 DocumentPath=Output\NC Drill Files\B202AA-PCIe.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument40]
 DocumentPath=Output\Export PARASOLID\B202AA-PCIe.x_t
 DItemRevisionGUID=
 
-[GeneratedDocument42]
-DocumentPath=Output\Report Board Stack\B202AA-PCIe.xls
-DItemRevisionGUID=
-
-[GeneratedDocument43]
+[GeneratedDocument41]
 DocumentPath=Output\Bill of Materials\Bill of Materials-B202AA-PCIe.csv
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument42]
 DocumentPath=Output\BOM Checks Report\BOM Checks Report-B202AA-PCIe.html
 DItemRevisionGUID=
 
-[GeneratedDocument45]
-DocumentPath=Project Outputs for B202AA-PCIe\Design Rule Check - B202AA-PCIe.html
-DItemRevisionGUID=
-
-[GeneratedDocument46]
+[GeneratedDocument43]
 DocumentPath=Output\Generates pick and place files\Pick Place for B202AA-PCIe.txt
 DItemRevisionGUID=
 
@@ -582,7 +553,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for B202AA-PCIe
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1123,6 +1094,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

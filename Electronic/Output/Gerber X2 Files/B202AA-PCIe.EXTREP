@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: B202AA-PCIe.GBR   13.03.2023  16:30:09
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Layer                               
+.gbr                Int1                                    
+.gbr                Int2                                    
+.gbr                Bottom Layer                            
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Bottom Overlay                          
+.gbr                Bottom Solder                           
+.gbr                Bottom Paste                            
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                Top Courtyard                           
+.gbr                Top 3D Body                             
+.gbr                Top Assembly                            
+.gbr                Bottom Courtyard                        
+.gbr                Board Shape                             
+.gbr                Bottom Assembly                         
+.gbr                Bottom 3D Body                          
+.gbr                Profile                                 
+.gbr                Plated through-hole drill file          
+.gbr                Micro Via drill file                    
+.gbr                Micro Via drill file                    
+.gbr                Drill Drawing                           
+.gbr                Drill Drawing                           
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+.gbr                Drill Guide                             
+.gbr                Drill Guide                             
+------------------------------------------------------------------------------------------

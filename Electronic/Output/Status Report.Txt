@@ -1,10 +1,10 @@
-Output: Export PARASOLID
+Output: Export STEP
 Type  : ExportSTEP
 From  : Variant [[No Variations]] of PCB Document [B202AA-PCIe.PcbDoc]
-   Generated File[B202AA-PCIe.x_t]
+   Generated File[B202AA-PCIe.step]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 13:56:21 On 13.03.2023
+Finished Output Generation At 16:30:25 On 13.03.2023

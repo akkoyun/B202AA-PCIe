@@ -26,7 +26,7 @@ The B202AA-PCIe is designed to interface to the host processor via the UART inte
 
 ## Tech Files
 
-[B202AA-PCIe Schematics](/Electronic/Output/Schematic%20Prints/Schematic%20Prints.PDF)
+[B202AA-PCIe Schematics](/Electronic/Output/Schematic%20Print/Schematic%20Prints.PDF)
 
 ## PinOut
 

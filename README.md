@@ -55,10 +55,10 @@ The B202AA-PCIe is designed to interface to the host processor via the UART inte
 | -                   | 19     | 20     | Module UART RX       |
 | -                   | 21     | 22     | Module UART TX       |
 | GND                 | 23     | 24     | GND                  |
-| -                   | 25     | 26     | VR Sense             |
-| -                   | 27     | 28     | VS Sense             |
-| -                   | 29     | 30     | VT Sense             |
-| -                   | 31     | 32     | AL1                  |
+| -                   | 25     | 26     | AL1                  |
+| -                   | 27     | 28     | AL2                  |
+| -                   | 29     | 30     | -                    |
+| -                   | 31     | 32     | -                    |
 | -                   | 33     | 34     | -                    |
 | -                   | 35     | 36     | -                    |
 | -                   | 37     | 38     | -                    |

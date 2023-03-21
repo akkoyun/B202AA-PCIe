@@ -4,7 +4,7 @@
 
 ---
 
- <center><img src="/Images/B202AA-PCIe.png" width="800"></center></br>
+ <center><img src="/Images/B202AA-PCIe_V2.png" width="800"></center></br>
 
 ***
 

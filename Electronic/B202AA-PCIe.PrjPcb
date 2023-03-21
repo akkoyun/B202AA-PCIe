@@ -64,57 +64,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YTWSDNNB
 
 [Document2]
-DocumentPath=Schematic\R Phase Sense Signal Isolation.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=11
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UNKKQBLI
-
-[Document3]
-DocumentPath=Schematic\S Phase Sense Signal Isolation.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=13
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QAZBMUDL
-
-[Document4]
-DocumentPath=Schematic\T Phase Sense Signal Isolation.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=14
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YWBUGGYG
-
-[Document5]
 DocumentPath=Schematic\Power Isolation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,8 +80,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KIVCLKFV
 
-[Document6]
-DocumentPath=Schematic\UART Comm Isolation.SchDoc
+[Document3]
+DocumentPath=Schematic\Signal Isolation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -148,24 +97,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WVBUFKSS
 
-[Document7]
-DocumentPath=Schematic\AL1 Signal Isolation.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PHKPDUTT
-
-[Document8]
+[Document4]
 DocumentPath=Schematic\Block Diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -182,7 +114,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EVMNKMLD
 
-[Document9]
+[Document5]
 DocumentPath=Schematic\Energy Inputs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -199,7 +131,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HHWYSWXX
 
-[Document10]
+[Document6]
 DocumentPath=Schematic\Phase Voltage Dividers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -216,7 +148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MOFIBQWZ
 
-[Document11]
+[Document7]
 DocumentPath=Schematic\Current Voltage Dividers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -233,7 +165,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBTGGWZW
 
-[Document12]
+[Document8]
 DocumentPath=Schematic\MAX78630 SOC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -250,7 +182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JEEIJHFJ
 
-[Document13]
+[Document9]
 DocumentPath=B202AA-PCIe.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -267,7 +199,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HWDBIJDH
 
-[Document14]
+[Document10]
 DocumentPath=B202AA-PCIe.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -284,7 +216,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document11]
 DocumentPath=B202AA-PCIe.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -301,7 +233,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document12]
 DocumentPath=Output_Job.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1850,8 +1782,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=Akkoyun.IntLib
-ComponentDesignItemID0=Crystal - 20MHz
-ComponentSymbolReference0=Crystal - 20MHz
+ComponentDesignItemID0=Connector - Mini PCI-E (Male B202AA-PCIe)
+ComponentSymbolReference0=Connector - Mini PCI-E (Male B202AA-PCIe)
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1867,7 +1799,7 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Case
+ParameterName0=BUS Type
 ParameterUpdate0=1
 ParameterName1=Comment
 ParameterUpdate1=1
@@ -1875,18 +1807,20 @@ ParameterName2=Component Kind
 ParameterUpdate2=1
 ParameterName3=Description
 ParameterUpdate3=1
-ParameterName4=Frequency
+ParameterName4=Library Reference
 ParameterUpdate4=1
-ParameterName5=Library Reference
+ParameterName5=Mating Connector
 ParameterUpdate5=1
-ParameterName6=Manufacturer Name
+ParameterName6=Number of Positions
 ParameterUpdate6=1
-ParameterName7=Manufacturer Part Number
+ParameterName7=Pitch
 ParameterUpdate7=1
+ParameterName8=System
+ParameterUpdate8=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=CRYSTAL - 20MHz
+ModelName0=PCB - Mini PCI Express
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
@@ -1896,78 +1830,84 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=3V3|NetColor=$000033FF
-Net2=NetName=3V3_UART_RX|NetColor=clGreen
-Net3=NetName=3V3_UART_TX|NetColor=clGreen
-Net4=NetName=3V3ISO|NetColor=$000033FF
-Net5=NetName=ADDR0|NetColor=clBlue
-Net6=NetName=ADDR1|NetColor=clBlue
-Net7=NetName=AL1|NetColor=clBlue
-Net8=NetName=AL2|NetColor=clBlue
-Net9=NetName=AL4|NetColor=clBlue
-Net10=NetName=AL5|NetColor=clBlue
-Net11=NetName=Analog_IR|NetColor=$00CC00CC
-Net12=NetName=Analog_IR_|NetColor=$00CC00CC
-Net13=NetName=Analog_IS|NetColor=$00CC00CC
-Net14=NetName=Analog_IS_|NetColor=$00CC00CC
-Net15=NetName=Analog_IT|NetColor=$00CC00CC
-Net16=NetName=Analog_IT_|NetColor=$00CC00CC
-Net17=NetName=Analog_VR|NetColor=$00CC00CC
-Net18=NetName=Analog_VS|NetColor=$00CC00CC
-Net19=NetName=Analog_VT|NetColor=$00CC00CC
-Net20=NetName=GND|NetColor=$00909090
-Net21=NetName=GNDISO|NetColor=$00909090
-Net22=NetName=I\S\O\_\A\L\1\|NetColor=clBlue
-Net23=NetName=I\S\O\_\A\L\1\_\|NetColor=clBlue
-Net24=NetName=I\S\O\_\A\L\2\|NetColor=clBlue
-Net25=NetName=I\S\O\_\A\L\2\_\|NetColor=clBlue
-Net26=NetName=I\S\O\_\A\L\4\|NetColor=clBlue
-Net27=NetName=I\S\O\_\A\L\4\_\|NetColor=clBlue
-Net28=NetName=I\S\O\_\A\L\5\|NetColor=clBlue
-Net29=NetName=I\S\O\_\A\L\5\_\|NetColor=clBlue
-Net30=NetName=I\S\O\_\D\I\O\1\1\|NetColor=clBlue
-Net31=NetName=I\S\O\_\D\I\O\1\2\|NetColor=clBlue
-Net32=NetName=I\S\O\_\D\I\O\1\3\|NetColor=clBlue
-Net33=NetName=I\S\O\_\D\I\O\1\4\|NetColor=clBlue
-Net34=NetName=I\S\O\_\D\I\O\1\5\|NetColor=clBlue
-Net35=NetName=I\S\O\_\D\I\O\5\|NetColor=clBlue
-Net36=NetName=I\S\O\_\R\E\S\E\T\|NetColor=clBlue
-Net37=NetName=IFC0|NetColor=clBlue
-Net38=NetName=IFC1|NetColor=clBlue
-Net39=NetName=IR|NetColor=$000033FF
-Net40=NetName=IS|NetColor=$000033FF
-Net41=NetName=ISO_UART_RX|NetColor=clGreen
-Net42=NetName=ISO_UART_TX|NetColor=clGreen
-Net43=NetName=IT|NetColor=$000033FF
-Net44=NetName=NetD1_1|NetColor=clBlue
-Net45=NetName=NetD3_1|NetColor=clBlue
-Net46=NetName=NetJ2_1|NetColor=$000033FF
-Net47=NetName=NetJ2_2|NetColor=$000033FF
-Net48=NetName=NetJ2_3|NetColor=$000033FF
-Net49=NetName=NetJ2_5|NetColor=$000033FF
-Net50=NetName=NetJ2_6|NetColor=$000033FF
-Net51=NetName=NetJ2_7|NetColor=$000033FF
-Net52=NetName=NetR?_2|NetColor=$000033FF
-Net53=NetName=NetU2_25|NetColor=$00CC00CC
-Net54=NetName=NetU2_26|NetColor=$00CC00CC
-Net55=NetName=NetU2_27|NetColor=$00CC00CC
-Net56=NetName=NetU2_29|NetColor=$00CC00CC
-Net57=NetName=NetU2_30|NetColor=$00CC00CC
-Net58=NetName=NetU2_31|NetColor=$00CC00CC
-Net59=NetName=NOTR|NetColor=$00909090
-Net60=NetName=RESET|NetColor=clBlue
-Net61=NetName=RESET_|NetColor=clBlue
-Net62=NetName=SENSE_VR|NetColor=clBlue
-Net63=NetName=SENSE_VS|NetColor=clBlue
-Net64=NetName=SENSE_VT|NetColor=clBlue
-Net65=NetName=VR|NetColor=$000033FF
-Net66=NetName=VR_OPTO|NetColor=$000033FF
-Net67=NetName=VS|NetColor=$000033FF
-Net68=NetName=VS_OPTO|NetColor=$000033FF
-Net69=NetName=VT|NetColor=$000033FF
-Net70=NetName=VT_OPTO|NetColor=$000033FF
-Net71=NetName=XIN|NetColor=$00CC00CC
-Net72=NetName=XOUT|NetColor=$00CC00CC
+Net1=NetName=3\V\3\_\A\L\1\|NetColor=clBlue
+Net2=NetName=3\V\3\_\A\L\2\|NetColor=clBlue
+Net3=NetName=3V3|NetColor=$000033FF
+Net4=NetName=3V3_AL1|NetColor=clBlue
+Net5=NetName=3V3_AL2|NetColor=clBlue
+Net6=NetName=3V3_UART_RX|NetColor=clGreen
+Net7=NetName=3V3_UART_TX|NetColor=clGreen
+Net8=NetName=3V3ISO|NetColor=$000033FF
+Net9=NetName=ADDR0|NetColor=clBlue
+Net10=NetName=ADDR1|NetColor=clBlue
+Net11=NetName=AL1|NetColor=clBlue
+Net12=NetName=AL2|NetColor=clBlue
+Net13=NetName=AL4|NetColor=clBlue
+Net14=NetName=AL5|NetColor=clBlue
+Net15=NetName=Analog_IR|NetColor=$00CC00CC
+Net16=NetName=Analog_IR_|NetColor=$00CC00CC
+Net17=NetName=Analog_IS|NetColor=$00CC00CC
+Net18=NetName=Analog_IS_|NetColor=$00CC00CC
+Net19=NetName=Analog_IT|NetColor=$00CC00CC
+Net20=NetName=Analog_IT_|NetColor=$00CC00CC
+Net21=NetName=Analog_VR|NetColor=$00CC00CC
+Net22=NetName=Analog_VS|NetColor=$00CC00CC
+Net23=NetName=Analog_VT|NetColor=$00CC00CC
+Net24=NetName=GND|NetColor=$00909090
+Net25=NetName=GNDISO|NetColor=$00909090
+Net26=NetName=I\S\O\_\A\L\1\|NetColor=clBlue
+Net27=NetName=I\S\O\_\A\L\1\_\|NetColor=clBlue
+Net28=NetName=I\S\O\_\A\L\2\|NetColor=clBlue
+Net29=NetName=I\S\O\_\A\L\2\_\|NetColor=clBlue
+Net30=NetName=I\S\O\_\A\L\4\|NetColor=clBlue
+Net31=NetName=I\S\O\_\A\L\4\_\|NetColor=clBlue
+Net32=NetName=I\S\O\_\A\L\5\|NetColor=clBlue
+Net33=NetName=I\S\O\_\A\L\5\_\|NetColor=clBlue
+Net34=NetName=I\S\O\_\D\I\O\1\1\|NetColor=clBlue
+Net35=NetName=I\S\O\_\D\I\O\1\2\|NetColor=clBlue
+Net36=NetName=I\S\O\_\D\I\O\1\3\|NetColor=clBlue
+Net37=NetName=I\S\O\_\D\I\O\1\4\|NetColor=clBlue
+Net38=NetName=I\S\O\_\D\I\O\1\5\|NetColor=clBlue
+Net39=NetName=I\S\O\_\D\I\O\5\|NetColor=clBlue
+Net40=NetName=I\S\O\_\R\E\S\E\T\|NetColor=clBlue
+Net41=NetName=IFC0|NetColor=clBlue
+Net42=NetName=IFC1|NetColor=clBlue
+Net43=NetName=IR|NetColor=$000033FF
+Net44=NetName=IS|NetColor=$000033FF
+Net45=NetName=ISO_AL1|NetColor=clBlue
+Net46=NetName=ISO_AL2|NetColor=clBlue
+Net47=NetName=ISO_UART_RX|NetColor=clGreen
+Net48=NetName=ISO_UART_TX|NetColor=clGreen
+Net49=NetName=IT|NetColor=$000033FF
+Net50=NetName=NetD1_1|NetColor=clBlue
+Net51=NetName=NetD3_1|NetColor=clBlue
+Net52=NetName=NetJ2_1|NetColor=$000033FF
+Net53=NetName=NetJ2_2|NetColor=$000033FF
+Net54=NetName=NetJ2_3|NetColor=$000033FF
+Net55=NetName=NetJ2_5|NetColor=$000033FF
+Net56=NetName=NetJ2_6|NetColor=$000033FF
+Net57=NetName=NetJ2_7|NetColor=$000033FF
+Net58=NetName=NetR?_2|NetColor=$000033FF
+Net59=NetName=NetU2_25|NetColor=$00CC00CC
+Net60=NetName=NetU2_26|NetColor=$00CC00CC
+Net61=NetName=NetU2_27|NetColor=$00CC00CC
+Net62=NetName=NetU2_29|NetColor=$00CC00CC
+Net63=NetName=NetU2_30|NetColor=$00CC00CC
+Net64=NetName=NetU2_31|NetColor=$00CC00CC
+Net65=NetName=NOTR|NetColor=$00909090
+Net66=NetName=RESET|NetColor=clBlue
+Net67=NetName=RESET_|NetColor=clBlue
+Net68=NetName=SENSE_VR|NetColor=clBlue
+Net69=NetName=SENSE_VS|NetColor=clBlue
+Net70=NetName=SENSE_VT|NetColor=clBlue
+Net71=NetName=VR|NetColor=$000033FF
+Net72=NetName=VR_OPTO|NetColor=$000033FF
+Net73=NetName=VS|NetColor=$000033FF
+Net74=NetName=VS_OPTO|NetColor=$000033FF
+Net75=NetName=VT|NetColor=$000033FF
+Net76=NetName=VT_OPTO|NetColor=$000033FF
+Net77=NetName=XIN|NetColor=$00CC00CC
+Net78=NetName=XOUT|NetColor=$00CC00CC
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

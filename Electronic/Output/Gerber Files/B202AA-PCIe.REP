@@ -2,133 +2,6 @@
 FileName = B202AA-PCIe.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : B202AA-PCIe.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Int2
-      File : B202AA-PCIe.G2
-
-    Adding Layer      : Int2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D28
-    D31
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : B202AA-PCIe.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D16
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-*************************************************************
-
-*************************************************************
-Generating : Top Assembly
-      File : B202AA-PCIe.GM2
-
-    Adding Layer      : Top Assembly
-
-
-Used DCodes :
-    D48
-    D49
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : B202AA-PCIe.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-*************************************************************
-
-*************************************************************
-Generating : Int1
-      File : B202AA-PCIe.G1
-
-    Adding Layer      : Int1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D27
-    D31
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : B202AA-PCIe.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
       File : B202AA-PCIe.GBS
 
@@ -170,13 +43,116 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top 3D Body
-      File : B202AA-PCIe.GM6
+Generating : Top Assembly
+      File : B202AA-PCIe.GM2
 
-    Adding Layer      : Top 3D Body
+    Adding Layer      : Top Assembly
 
 
 Used DCodes :
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : B202AA-PCIe.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : B202AA-PCIe.GM5
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D13
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : B202AA-PCIe.GM4
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : B202AA-PCIe.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : B202AA-PCIe.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : B202AA-PCIe.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
 *************************************************************
 
 *************************************************************
@@ -204,33 +180,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : B202AA-PCIe.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : B202AA-PCIe.GTP
-
-    Adding Layer      : Top Paste
+Generating : Top Layer
+      File : B202AA-PCIe.GTL
 
     Adding Layer      : Top Layer
 
@@ -240,31 +191,47 @@ Generating : Top Paste
 Used DCodes :
     D15
     D16
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
 *************************************************************
 
 *************************************************************
-Generating : Top Courtyard
-      File : B202AA-PCIe.GM4
+Generating : Top 3D Body
+      File : B202AA-PCIe.GM6
 
-    Adding Layer      : Top Courtyard
+    Adding Layer      : Top 3D Body
 
 
 Used DCodes :
-    D48
-    D49
 *************************************************************
 
 *************************************************************
-Generating : Bottom Courtyard
-      File : B202AA-PCIe.GM5
+Generating : Bottom 3D Body
+      File : B202AA-PCIe.GM7
 
-    Adding Layer      : Bottom Courtyard
+    Adding Layer      : Bottom 3D Body
 
 
 Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : B202AA-PCIe.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
     D13
-    D48
-    D49
+    D14
 *************************************************************
 
 *************************************************************
@@ -286,13 +253,61 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom 3D Body
-      File : B202AA-PCIe.GM7
+Generating : Int1
+      File : B202AA-PCIe.G1
 
-    Adding Layer      : Bottom 3D Body
+    Adding Layer      : Int1
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D27
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : B202AA-PCIe.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D16
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Int2
+      File : B202AA-PCIe.G2
+
+    Adding Layer      : Int2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D28
+    D31
 *************************************************************
 
 *************************************************************
@@ -303,22 +318,7 @@ Generating : Board Shape
 
 
 Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : B202AA-PCIe.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
     D12
-    D13
-    D14
 *************************************************************
 
 *************************************************************

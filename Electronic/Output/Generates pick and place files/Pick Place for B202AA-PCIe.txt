@@ -5,8 +5,8 @@ C:\Users\akkoyun\Documents\B202AA-PCIe\Electronic\Output\Generates pick and plac
 File Design Information:
 
 Date:       21.03.23
-Time:       13:44
-Revision:   dd313704509e07a0072a7c8d3696b82d50bcf84b
+Time:       14:45
+Revision:   dd20a8cb23d0362d1b66961fc6c6fde903d33b9b
 Variant:    No variations
 Units used: mil
 

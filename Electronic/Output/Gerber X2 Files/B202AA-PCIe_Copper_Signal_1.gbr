@@ -3,7 +3,7 @@ G04 Layer_Physical_Order=2*
 G04 Layer_Color=36540*
 %FSLAX26Y26*%
 %MOIN*%
-%TF.SameCoordinates,E27AF617-6D1A-405A-B533-5A9FBCB34AAC*%
+%TF.SameCoordinates,654C00B4-3322-4B45-B6E3-0FD47356756A*%
 %TF.FilePolarity,Positive*%
 %TF.FileFunction,Copper,L2,Inr,Signal*%
 %TF.Part,Single*%
@@ -653,5 +653,5 @@ X147638Y1062992D02*
 D03*
 X314961Y1023622D02*
 D03*
-%TF.MD5,6d3f9f70c6205b2c7fbb715b8885f25b*%
+%TF.MD5,b01396abb24646fd31702c3efd57e837*%
 M02*

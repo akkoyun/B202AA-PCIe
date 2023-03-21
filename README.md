@@ -6,6 +6,8 @@
 
  <center><img src="/Images/B202AA-PCIe.png" width="800"></center></br>
 
+***
+
 ## Abstract
 
 B202AA-PCIe module is an energy measurement module (EMM) for poly phase power monitoring systems. It is designed for real-time monitoring for a variety of typical three-phase configurations in industrial applications. It is available in a mini PCIe size PCB module.
@@ -24,9 +26,17 @@ The B202AA-PCIe is designed to interface to the host processor via the UART inte
 * Module gives output of VR,VS and VT Sense (optical isolated).
 * Full mini PCIe size.
 
+***
+
 ## Tech Files
 
-[B202AA-PCIe Schematics](/Electronic/Output/Schematic%20Prints/Schematic%20Prints.PDF)
+* [B202AA-PCIe Schematics](/Electronic/Output/Schematic%20Print/Schematic%20Prints.PDF)
+* [B202AA-PCIe Gerber Files](/Electronic/Output/Gerber%20Files/)
+* [B202AA-PCIe Gerber X2 Files](/Electronic/Output/Gerber%20X2%20Files/)
+* [B202AA-PCIe NC Drill Files](/Electronic/Output/NC%20Drill%20Files/)
+* [B202AA-PCIe ODB++ Gerber Files](/Electronic/Output/ODB%2B%2B%20Files/)
+
+***
 
 ## PinOut
 
@@ -59,6 +69,8 @@ The B202AA-PCIe is designed to interface to the host processor via the UART inte
 | -                   | 47     | 48     | -                    |
 | -                   | 49     | 50     | -                    |
 | GND                 | 51     | 52     | GND                  |
+
+***
 
 ## Measured Parameters
 

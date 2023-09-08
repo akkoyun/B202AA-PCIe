@@ -1,114 +1,44 @@
-# B202AA-PCIe <sup>V5.1</sup>
+# B107AA - PowerStat V4 IoT Module
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/akkoyun/MAX78630) ![arduino-library-badge](https://www.ardu-badge.com/badge/MAX78630.svg?) ![GitHub stars](https://img.shields.io/github/stars/akkoyun/MAX78630?style=flat&logo=github) [![PlatformIO Registry](https://badges.registry.platformio.org/packages/akkoyun/library/MAX78630.svg)](https://registry.platformio.org/libraries/akkoyun/MAX78630)
+![Resim Alt Metni](./Documents/Images/B107AA-R2.jpg)
 
----
+## Production Files
 
- <center><img src="/Images/B202AA-PCIe_V2.png" width="800"></center></br>
+* [Schematic Print](./Design%20Files/Output/2023-08-31/Schematic%20Print/Schematic%20Prints.PDF)
+* [BOM List](./Design%20Files/Output/2023-08-31/BOM/Bill%20of%20Materials-B107AA(Demo%20Production).csv)
+* [Technical Drawing](./Design%20Files/Output/2023-08-31/PCBDrawing/Draftsman.PDF)
+* [Gerber Files](./Design%20Files/Output/2023-08-31/Gerber/)
+* [Gerber Files X2](./Design%20Files/Output/2023-08-31/GerberX2/)
+* [Drill Files](./Design%20Files/Output/2023-08-31/NC%20Drill/)
 
-***
+## B107AA-R2 Changes
 
-## Abstract
+* [X] SMPS footprint changed to multiple module types.
+* [X] External adapter socket added.
+* [X] Power LED added.
+* [X] Watchdog control IC added.
+* [X] ICSP programming sockets updated.
+* [X] GSM Modem test connector added.
+* [X] Power supply inductors updated.
+* [X] Diodes on relay polarity bug fixed.
+* [X] Reset button moved to the edge of the board.
+* [X] Notr lines updated on internal layer.
+* [X] Energy metering caliration socket added.
+* [X] Voltage divider resistor values changed to 750 ohm.
+* [X] Some footprints updated.
+* [X] C16 and C34 capacitor footprints updated (new footprint is 0603).
+* [X] 22uF capacitors PN updated (new footprint is 0805).
+* [X] GSM Modem power segment capacitors updated (100uF tantalium).
+* [X] GSM communication buffer some caps and resistors position changed.
+* [X] Crystal placement updated.
+* [X] Silk layer updated.
+* [X] Battery silkscreen updated.
 
-B202AA-PCIe module is an energy measurement module (EMM) for poly phase power monitoring systems. It is designed for real-time monitoring for a variety of typical three-phase configurations in industrial applications. It is available in a mini PCIe size PCB module.
+## Planned changes
 
-The B202AA-PCIe provides up to six analog inputs for interfacing to voltage and current sensors. Scaled voltages from the sensors are fed to the single converter front-end utilizing a high-resolution delta-sigma converter. Supported current sensors include current transformers (CT), Rogowski coils, and resistive shunts.
+* [ ] 220V AC input voltage divider resistor values will be changed.
+* [ ] Connector colors will be defined.
 
-An embedded 24-bit measurement processor and firmware perform all necessary computations and data formatting for accurate reporting to the host. With integrated flash memory for storing nonvolatile calibration coefficients and device configuration settings, the B201 is capable of being a completely autonomous solution.
+## Alternative components
 
-<center><img src="/Images/Terminal.png" width="800"></center></br>
-
-The B202AA-PCIe is designed to interface to the host processor via the UART interface.
-
-* Full open hardware.
-* Module connected MCU via UART and measure parameters.
-* Module gives alarm output which is configured via library.
-* Module gives output of VR,VS and VT Sense (optical isolated).
-* Full mini PCIe size.
-
-***
-
-## Tech Files
-
-* [B202AA-PCIe Schematics](/Electronic/Output/Schematic%20Print/Schematic%20Prints.PDF)
-* [B202AA-PCIe Gerber Files](/Electronic/Output/Gerber%20Files/)
-* [B202AA-PCIe Gerber X2 Files](/Electronic/Output/Gerber%20X2%20Files/)
-* [B202AA-PCIe NC Drill Files](/Electronic/Output/NC%20Drill%20Files/)
-* [B202AA-PCIe ODB++ Gerber Files](/Electronic/Output/ODB%2B%2B%20Files/)
-
-***
-
-## PinOut
-
-| Top Side            | Pin ID | Pin ID | Bottom Side          |
-|--------------------:|:------:|:------:|:---------------------|
-| -                   | 01     | 02     | -                    |
-| -                   | 03     | 04     | -                    |
-| -                   | 05     | 06     | -                    |
-| 3V3                 | 07     | 08     | 3V3                  |
-| -                   | 09     | 10     | -                    |
-| -                   | 11     | 12     | -                    |
-| -                   | 13     | 14     | -                    |
-| GND                 | 15     | 16     | GND                  |
-| -                   | Key    | Key    | -                    |
-| GND                 | 17     | 18     | GND                  |
-| -                   | 19     | 20     | Module UART RX       |
-| -                   | 21     | 22     | Module UART TX       |
-| GND                 | 23     | 24     | GND                  |
-| -                   | 25     | 26     | AL1                  |
-| -                   | 27     | 28     | AL2                  |
-| -                   | 29     | 30     | -                    |
-| -                   | 31     | 32     | -                    |
-| -                   | 33     | 34     | -                    |
-| -                   | 35     | 36     | -                    |
-| -                   | 37     | 38     | -                    |
-| -                   | 39     | 40     | -                    |
-| GND                 | 41     | 42     | GND                  |
-| -                   | 43     | 44     | -                    |
-| GND                 | 45     | 46     | GND                  |
-| -                   | 47     | 48     | -                    |
-| -                   | 49     | 50     | -                    |
-| GND                 | 51     | 52     | GND                  |
-
-***
-
-## Measured Parameters
-
-In this Arduino Library we can read all data of energy parameters.
-
-| Parameter                  | Phase R | Phase S | Phase T |
-|----------------------------|:-------:|:-------:|:-------:|
-| Instant Voltage            | Yes     | Yes     | Yes     |
-| RMS Voltage                | Yes     | Yes     | Yes     |
-| Fundamental Voltage        | Yes     | Yes     | Yes     |
-| Harmonic Voltage           | Yes     | Yes     | Yes     |
-| Frequency                  | Yes     | -       | -       |
-| Instant Current            | Yes     | Yes     | Yes     |
-| RMS Current                | Yes     | Yes     | Yes     |
-| Peak Current               | Yes     | Yes     | Yes     |
-| Fundamental Current        | Yes     | Yes     | Yes     |
-| Harmonic Current           | Yes     | Yes     | Yes     |
-| Active Power               | Yes     | Yes     | Yes     |
-| ReActive Power             | Yes     | Yes     | Yes     |
-| Apparent Power             | Yes     | Yes     | Yes     |
-| Fundamental Power          | Yes     | Yes     | Yes     |
-| Harmonic Power             | Yes     | Yes     | Yes     |
-| Power Factor               | Yes     | Yes     | Yes     |
-| Fundamental ReActive Power | Yes     | Yes     | Yes     |
-| Harmonic Reactive Power    | Yes     | Yes     | Yes     |
-| Fundamental VA Power       | Yes     | Yes     | Yes     |
-| IC Temperature             | -       | -       | -       |
-
-Also set limits for alarm monitoring.
-
----
-
-## Want to buy ?
-
-[![Want to buu](https://img.shields.io/badge/I_Sell_on-Tindie-blue.svg)](https://www.tindie.com/stores/akkoyun)
-
-    New PCIe version is waiting production.
-
----
-
-[![Support me](https://img.shields.io/badge/Support-PATREON-GREEN.svg)](https://www.patreon.com/bePatron?u=62967889) ![Twitter Follow](https://img.shields.io/twitter/follow/gunceakkoyun?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCIguQGdaBT1GnnVMz5qAZ2Q?style=social) [![E-Mail](https://img.shields.io/badge/E_Mail-Mehmet_Gunce_Akkoyun-blue.svg)](mailto:akkoyun@me.com) ![GitHub](https://img.shields.io/github/license/akkoyun/Statistical) 
+* ISO7041 --> ISO7741DBQR (TI)

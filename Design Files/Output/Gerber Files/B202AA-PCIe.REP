@@ -1,0 +1,1057 @@
+*************************************************************
+FileName = B202AA-PCIe.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 15
+      File : B202AA-PCIe.GM15
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : B202AA-PCIe.GM13
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Board Shape
+      File : B202AA-PCIe.GM10
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : B202AA-PCIe.GM7
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : B202AA-PCIe.GM6
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : B202AA-PCIe.GM5
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : B202AA-PCIe.GM4
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : B202AA-PCIe.GM3
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : B202AA-PCIe.GM2
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : B202AA-PCIe.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : B202AA-PCIe.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : B202AA-PCIe.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+    D17
+    D18
+    D19
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : B202AA-PCIe.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+    D23
+    D24
+    D26
+    D27
+    D28
+    D31
+    D32
+    D33
+    D34
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : B202AA-PCIe.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : B202AA-PCIe.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : B202AA-PCIe.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : B202AA-PCIe.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D35
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : B202AA-PCIe.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+    D17
+    D18
+    D19
+    D35
+    D39
+    D40
+    D41
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : B202AA-PCIe.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D14
+    D15
+    D17
+    D18
+    D19
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Int2
+      File : B202AA-PCIe.G2
+
+    Adding Layer      : Int2
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D14
+    D15
+    D37
+    D40
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Int1
+      File : B202AA-PCIe.G1
+
+    Adding Layer      : Int1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D14
+    D15
+    D37
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : B202AA-PCIe.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : B202AA-PCIe.GD1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : B202AA-PCIe.GD2
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Drill Pair : [uVia]Top Layer-Int1
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : B202AA-PCIe.GD3
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Drill Pair : [uVia]Int2-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : B202AA-PCIe.GG1
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : B202AA-PCIe.GG2
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Drill Pair : [uVia]Top Layer-Int1
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : B202AA-PCIe.GG3
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Board Shape
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 15
+
+    Adding Drill Pair : [uVia]Int2-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+    D56
+*************************************************************
+

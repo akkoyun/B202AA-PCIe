@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 08:53:36 On 3.11.2022
+
+Output: Export PARASOLID
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [B202AA-PCIe.PcbDoc]
+   Generated File[B202AA-PCIe.x_t]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 08:53:41 On 3.11.2022

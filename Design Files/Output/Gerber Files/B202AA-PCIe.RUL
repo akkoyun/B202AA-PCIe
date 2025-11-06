@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\akkoyun\Documents\Electronic_Modules\Modules [B]\[B2xx] Metering Segment\[B202]\B202AA-PCIe\B202AA-PCIe.PcbDoc
+DRC Rules Export File for PCB: C:\Users\akkoyun\Documents\B202AA-PCIe\Design Files\B202AA-PCIe.PcbDoc
 RuleKind=Clearance|RuleName=HV Clearence|Scope=Board|Minimum=3.94
 RuleKind=MinimumAnnularRing|RuleName=Minimum-IAR|Scope=Board|Minimum=4.92
 RuleKind=MinimumAnnularRing|RuleName=Minimum IAR  > 0.45mm|Scope=Board|Minimum=4.92

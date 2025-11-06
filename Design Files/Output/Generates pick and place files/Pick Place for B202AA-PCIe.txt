@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\akkoyun\Documents\Electronic_Modules\Modules [B]\[B2xx] Metering Segment\[B202]\B202AA-PCIe\Output\Generates pick and place files\Pick Place for B202AA-PCIe.txt
+C:\Users\akkoyun\Documents\B202AA-PCIe\Design Files\Output\Generates pick and place files\Pick Place for B202AA-PCIe.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       19.10.22
-Time:       11:35
-Revision:   163e2f169fc281a70890b693d4ba985573b7fdab
+Date:       06.11.25
+Time:       14:22
+Revision:   44f9cd2dd184b6571bf89239f4d194a9c03f8d6a
 Variant:    No variations
 Units used: mil
 

@@ -1,4 +1,2 @@
 Layer Pairs Export File for PCB: C:\Users\akkoyun\Documents\B202AA-PCIe\Design Files\B202AA-PCIe.PcbDoc
 LayersSetName=Top_Bot_Thru_Holes|DrillFile=b202aa-pcie.txt|DrillLayers=gtl,g1,g2,gbl
-LayersSetName=Top_Int1_Blind_Vias|DrillFile=b202aa-pcie.tx3|DrillLayers=gtl,g1
-LayersSetName=Int2_Bot_Blind_Vias|DrillFile=b202aa-pcie.tx4|DrillLayers=g2,gbl
